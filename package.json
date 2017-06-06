@@ -2,7 +2,7 @@
   "name": "helloworld",
   "version": "1.0.0",
   "description": "this is hello world for chat connector",
-  "main": "app.js",
+  "main": "basicWaterfall.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
